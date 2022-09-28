@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 echo "ALX School"
-=======
+
 echo "ALX School is so cool
->>>>>>> Hot fix
-=======
+Hot fix
+
 echo "ALX School is so cool
-=======
+
 echo "ALX School"
->>>>>>> update_script
->>>>>>> 8edf3b58f726ce778db9efc884bf24b82cea8174
+ update_script
+ 8edf3b58f726ce778db9efc884bf24b82cea8174
